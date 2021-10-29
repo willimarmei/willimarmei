@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @willimarmei
+- 👋 Hi, I’m @willimarmei (she/her)
 - 👀 I’m interested in STEM (particularly computer science) education
 - 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on any side projects
-- 📫 How to reach me willimarmei@gmail.com
+- 💬 I’m looking to collaborate on any side projects
+- 📫 How to reach me: willimarmei@gmail.com
+- ⚡ Fun fact: I race a spec E30 on track and a WRX on dirt
