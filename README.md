@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @willimarmei
+- 👀 I’m interested in STEM (particularly computer science) education
+- 🌱 I’m currently learning Kotlin
+- 💞️ I’m looking to collaborate on any side projects
+- 📫 How to reach me willimarmei@gmail.com
